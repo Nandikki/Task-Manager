@@ -1,0 +1,20 @@
+.title {
+    font-family: 'Montserrat';
+}
+
+body {
+
+}
+
+.done {
+    text-decoration: line-through;
+    color: #cfcfcf;
+}
+
+h1, .btn {
+text-transform: none
+}
+
+h1 {
+    margin: 20px;
+}
